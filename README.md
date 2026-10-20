@@ -1,2 +1,2 @@
 # HMCL-artifacts
-HMCL v3.16.4 release artifacts.
+Collect HMCL release artifacts.
